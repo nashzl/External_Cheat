@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">
-  Contact Me
+  Contact me on discord
  
   nash#1337
 
